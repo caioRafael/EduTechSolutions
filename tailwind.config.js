@@ -41,6 +41,7 @@ module.exports = {
           800: '#285E61',
           900: '#234E52',
         },
+        primarys: 'linear-gradient(to right, #003488, #0061FF)'
       },
       boxShadow: {
         xs: '0 0 0 1px rgba(0, 0, 0, 0.16)',
